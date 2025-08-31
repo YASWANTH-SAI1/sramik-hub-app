@@ -2,7 +2,7 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Users, Plus, User, Info } from "lucide-react";
 import { Link } from "react-router-dom";
-import logoImage from "@/assets/agro-sramik-logo.png";
+import logoImage from "/lovable-uploads/4de0bb0d-539f-4f3f-9494-d61a77ed9508.png";
 
 const Home = () => {
   const navCards = [
